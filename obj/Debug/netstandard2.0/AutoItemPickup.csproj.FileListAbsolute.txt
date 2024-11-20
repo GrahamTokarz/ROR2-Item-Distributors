@@ -1,0 +1,15 @@
+C:\Users\Reef\Downloads\ror2-autoitempickup-master\ror2-autoitempickup-master\AutoItemPickup\obj\Debug\netstandard2.0\AutoItemPickup.csproj.AssemblyReference.cache
+C:\Users\Reef\Downloads\ror2-autoitempickup-master\ror2-autoitempickup-master\AutoItemPickup\obj\Debug\netstandard2.0\AutoItemPickup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reef\Downloads\ror2-autoitempickup-master\ror2-autoitempickup-master\AutoItemPickup\obj\Debug\netstandard2.0\AutoItemPickup.AssemblyInfoInputs.cache
+C:\Users\Reef\Downloads\ror2-autoitempickup-master\ror2-autoitempickup-master\AutoItemPickup\obj\Debug\netstandard2.0\AutoItemPickup.AssemblyInfo.cs
+C:\Users\Reef\Downloads\ror2-autoitempickup-master\ror2-autoitempickup-master\AutoItemPickup\obj\Debug\netstandard2.0\AutoItemPickup.csproj.CoreCompileInputs.cache
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.0\AutoItemPickup.csproj.AssemblyReference.cache
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.0\AutoItemPickup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.0\AutoItemPickup.AssemblyInfoInputs.cache
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.0\AutoItemPickup.AssemblyInfo.cs
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.0\AutoItemPickup.csproj.CoreCompileInputs.cache
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.0\AutoItemPickup.dll
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\obj\Debug\netstandard2.0\AutoItemPickup.pdb
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.0\AutoItemPickup.deps.json
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.0\AutoItemPickup.dll
+C:\Users\Reef\Downloads\R2Boilerplate-master\R2Boilerplate-master\ExamplePlugin\bin\Debug\netstandard2.0\AutoItemPickup.pdb
